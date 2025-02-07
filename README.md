@@ -29,6 +29,8 @@ birthday has the following parameter(s):
 
 ## Returns
 
+- int: the number of ways the bar can be divided
+
 
 
 
