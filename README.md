@@ -33,6 +33,7 @@ birthday has the following parameter(s):
 
 ## Input Format
 
+- The first line contains an integer n, the number of squares in the chocolate bar.
 
 
 
