@@ -31,6 +31,10 @@ birthday has the following parameter(s):
 
 - int: the number of ways the bar can be divided
 
+## Input Format
+
+
+
 
 
 
