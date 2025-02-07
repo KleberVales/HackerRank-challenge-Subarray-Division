@@ -12,7 +12,8 @@ Determine how many ways she can divide the chocolate.
 ## Example
 
 s = [2, 2, 1, 3, 2] \
-d = 4
+d = 4 \
+m = 2
 
 
 
