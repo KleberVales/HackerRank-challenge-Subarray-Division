@@ -54,6 +54,12 @@ birthday has the following parameter(s):
 ```
 ## Sample Output 0
 
+```
+
+2
+
+```
+
 
 
 
