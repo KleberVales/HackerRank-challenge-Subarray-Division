@@ -44,6 +44,8 @@ birthday has the following parameter(s):
 - 1 <= d <= 31
 - 1 <= m <= 12
 
+## Sample Input 0
+
 
 
 
