@@ -39,6 +39,8 @@ birthday has the following parameter(s):
 
 ## Constraints
 
+- 1 <= n <= 100
+
 
 
 
