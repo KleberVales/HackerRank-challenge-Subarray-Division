@@ -46,6 +46,13 @@ birthday has the following parameter(s):
 
 ## Sample Input 0
 
+```
+5
+12132
+32
+
+```
+
 
 
 
