@@ -37,6 +37,8 @@ birthday has the following parameter(s):
 - The second line contains n space-separated integers s[i], the numbers on the chocolate squares where 0 <= i < n .
 - The third line contains two space-separated integers, d and m, Ron's birth day and his birth month.
 
+## Constraints
+
 
 
 
