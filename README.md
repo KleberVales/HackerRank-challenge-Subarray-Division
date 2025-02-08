@@ -52,6 +52,7 @@ birthday has the following parameter(s):
 32
 
 ```
+## Sample Output 0
 
 
 
