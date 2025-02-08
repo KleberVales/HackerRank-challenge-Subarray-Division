@@ -41,7 +41,8 @@ birthday has the following parameter(s):
 
 - 1 <= n <= 100
 - 1 <= s[i] <= 5, where 0 <= i < n
-- i <= d <= 31
+- 1 <= d <= 31
+- 1 <= m <= 12
 
 
 
